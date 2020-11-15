@@ -159,7 +159,7 @@ candidates = [[direction, angle] for direction in directions for angle in angles
 # Tests
 
 def test_greyscale():
-    img = mpimg.imread('monkey.gif')
+    img = mpimg.imread('lena.gif')
     img = get_greyscale_image(img)
     img = reduce(img, 4)
     plt.figure()
