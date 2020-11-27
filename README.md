@@ -9,10 +9,10 @@
 </ul>
 <img src="./img/julia.png">
 <ul>
-    <li>python FIC.py</li>
+    <li>python leaves.py</li>
 </ul>
 <img src="./img/fic1.png">
 <ul>
-    <li>python leaves.py</li>
+    <li>python FIC.py</li>
 </ul>
 <img src="./img/fic2.png">
